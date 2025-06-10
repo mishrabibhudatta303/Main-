@@ -1,2 +1,3 @@
 # Main-
-this is my first git project
+this is my first git repositpry
+Author - Bibhu
